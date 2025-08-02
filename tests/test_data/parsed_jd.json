@@ -1,0 +1,89 @@
+{
+    "summary": "ABC is looking for a talented Senior UI Engineer to enable the creation of dynamic interfaces and experiences across a broad range of products. The role involves working with the Design System team to create scalable, accessible, and cross-browser compatible experiences for mobile, web, and desktop clients.",
+    "basics": [
+        {
+            "jobTitle": "Senior UI Engineer",
+            "jobLevel": "Senior",
+            "organization": "ABC",
+            "organizationsIndustrySegment": "Miscellaneous Manufacturing",
+            "department": "Digital Product Design User Experience (UX)",
+            "location": "null",
+            "reportingTo": "null",
+            "preferredCandidateCurrentRole": "UI Engineer",
+            "minBaseSalaryRange": "null",
+            "maxBaseSalaryRange": "null",
+            "minCurrentBaseSalaryOfCandidates": "null",
+            "maxCurrentBaseSalaryOfCandidates": "null",
+            "relocationSupport": false,
+            "IsworkAuthorizationRequired": true
+        }
+    ],
+    "overallYearsOfExperience": 7,
+    "keyResponsibilities": [
+        "Establish and maintain 1:1 parity between Storybook components and their Figma counterparts.",
+        "Direct maintenance of an established component library in Storybook.",
+        "Apply design changes/updates/alignments to developed components in accordance with Figma artifacts.",
+        "Work with Design System team to identify, estimate, and implement pattern evolvements to better serve the needs of the wider DPD Designer community."
+    ],
+    "peopleManagementExperience": false,
+    "softwareToolsOrProgrammingLanguages": [],
+    "skills": [
+        {
+            "skillName": "Designing and building React based single-page applications",
+            "yearsOfExperience": 5,
+            "score": "20%"
+        },
+        {
+            "skillName": "Building functional React components",
+            "yearsOfExperience": 5,
+            "score": "15%"
+        },
+        {
+            "skillName": "Theming components in React",
+            "yearsOfExperience": 5,
+            "score": "15%"
+        },
+        {
+            "skillName": "Working with Storybook",
+            "yearsOfExperience": 7,
+            "score": "15%"
+        },
+        {
+            "skillName": "Implementing components from Figma specifications",
+            "yearsOfExperience": 5,
+            "score": "15%"
+        },
+        {
+            "skillName": "Excellent communication and time-management skills",
+            "yearsOfExperience": 7,
+            "score": "10%"
+        },
+        {
+            "skillName": "Juggling multiple tasks/priorities and driving progress",
+            "yearsOfExperience": 7,
+            "score": "10%"
+        }
+    ],
+    "education": [
+        {
+            "degree_level": "Bachelor's",
+            "degree": "null",
+            "field_of_study": "null",
+            "specialization": "null",
+            "EducationInstitution'sPreference": ["null"],
+            "isMandatory": true
+        }
+    ],
+    "languages": [
+        {
+            "name": "null",
+            "fluency": "null"
+        }
+    ],
+    "certifications": ["null"],
+    "industryPreference": ["null"],
+    "organizationPreference": ["null"],
+    "organizationsToAvoid": ["null"],
+    "papersPublished": 0,
+    "patentsFiled": 0
+}

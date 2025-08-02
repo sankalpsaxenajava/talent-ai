@@ -1,0 +1,136 @@
+Job brief
+The primary function of this role is to be responsible for understanding the business and how to apply/augment the IT application architecture to plan, design, build, and integrate state of the art web solutions for both internal and public-facing applications. This role requires a strong understanding and experience with mobile enabled / responsive design web applications, messaging buses, micro services, and relational database architecture. We are seeking a Lead Software Engineer to join our IT Department in Charlotte, NC.
+
+This is NOT a remote role**
+
+Communication / Technology/ Leadership Responsibilities:
+
+Bring professional Software Engineering and Application Architecture concepts and best practices to the workplace; drive for high quality in all aspects of role purview.
+
+Work with IT management and technology peers to identify and implement continuous process improvement opportunities within IT.
+
+Formulate and communicate ideas, plans, and recommendations to IT team members and business customers.
+
+Influence changes in IT and/or the business to achieve operational excellence.
+
+Apply strong analytical skills to determine root causes of problems and to determine the best situational decisions.
+
+Apply technical/professional expertise to facilitate the on-schedule delivery of high-quality work products.
+
+YOUR ROLE
+
+Thoroughly comprehend ORHP's business model.
+
+Architect, develop and design detailed prototypes and web user interfaces.
+
+Create and maintain database-driven and rules-based web applications.
+
+Integrate online applications with back-end systems (using web services, SOAP, REST, etc.)
+
+Document all forms of knowledge (processes, procedures, specifications, designs, code).
+
+Learn customer business models in order to lead technical solutions.
+
+Work with team members to help translate customer needs into design/application specifications.
+
+Enhance development processes through experience and knowledge of best practices.
+
+Advise software development teams of architectural compliance requirements early in the SDLC.
+
+Maintain the components of the software development technology stack.
+
+Qualifications
+
+10+ years of web software development experience, including systems design.
+
+6+ years using web-focused MVC frameworks.
+
+6+ years of experience with service oriented architecture (SOA) or RESTful web services.
+
+6+ years of experience with web client-side application frameworks.
+
+Strong understanding of relational database concepts.
+
+Ability to effectively test and document your own work.
+
+Great organizational and time-management skills, including an ability to estimate project completion times.
+
+Ability to juggle multiple projects, tasks, and deadlines.
+
+Self-motivated and self-directed: We need someone who will proactively tackle challenges, and propose innovative solutions.
+
+Great communication skills: both written and verbal (Developers respond directly to client requests, so the ability to correspond professionally is critical).
+
+Anticipate business needs and communicate/pitch new ideas.
+
+Ability to work in hybrid environment; Agile and Waterfall.
+
+Ability to learn and pick up new technologies very quickly.
+
+Expert knowledge of Application Architecture models and methodologies.
+
+Expert knowledge of System Engineering constructs.
+
+Expert knowledge of development frameworks and methods, as well as the underlying tools.
+
+Ability to participate, hands-on, across many phases of the SDLC: Business Analysis, IT Project Management, Systems Architecture, Systems Design, Software Development, and QA Testing.
+
+Ability to teach and mentor across the IT organization.
+
+Required Technical Proficiencies
+
+HTML5 / CSS3 / SASS / Bootstrap 4+
+
+AngularJS 6.x+ / TypeScript
+
+a. Proficiency in ReactJS or another JavaScript-based client framework is an acceptable alternative
+
+Java 8 / Grails 3 (Spring Boot) / GORM (Hibernate)
+
+b. Proficiency in Spring Boot is an acceptable alternative to Grails 3
+
+c. Proficiency in Hibernate is an acceptable alternative to GORM
+
+RabbitMQ
+
+d. Proficiency in ZeroMQ or other messaging bus is an acceptable alternative
+
+MS SQL Server 2017
+
+e. Proficiency in Oracle / MySQL / PostgreSQL or another relational database platform is an acceptable alternative
+
+Windows Server 2012r2 / 2016 / 2019
+
+Desired Education/Experience
+
+Minimum of a 4-year college degree or equivalent work experience.
+
+10+ years of web software development experience.
+
+Understand the applicability of best practices.
+
+Systems design and architecture; Emphasis on Web Application Development / Client-Side Development
+
+Related Essential Requirements:
+
+Internet connectivity for off-hour support.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+
+Ability to commute/relocate:
+Charlotte, NC 28262: Reliably commute or planning to relocate before starting work (Required)
+
+Education:
+Bachelor's (Preferred)
+
+Experience:
+web software: 8 years Location: Remote

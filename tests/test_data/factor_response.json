@@ -1,0 +1,30 @@
+[
+  {
+    "factor": "Relevant experience, Title, Responsibilities performed, Preferred Industry",
+    "score": "110/130"
+  },
+  {
+    "factor": "Education",
+    "score": "15/20"
+  },
+  {
+    "factor": "Learnability, Growth, Accomplishments",
+    "score": "15/20"
+  },
+  {
+    "factor": "Stability, Adaptability",
+    "score": "20/20"
+  },
+  {
+    "factor": "People Management Experience",
+    "score": "10/20"
+  },
+  {
+    "factor": "Programming Languages and Software",
+    "score": "15/20"
+  },
+  {
+    "factor": "Communication Skills",
+    "score": "20/20"
+  }
+]

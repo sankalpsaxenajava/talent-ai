@@ -1,0 +1,130 @@
+{
+    "explanations": {
+        "primary_factors": [
+            {
+                "factor": "Relevant experience",
+                "rating": 8,
+                "explanation": "The candidate has 2+ years of relevant experience in costing and financial analysis, which aligns well with the job requirements."
+            },
+            {
+                "factor": "Title",
+                "rating": 7,
+                "explanation": "The current title of Sr. Executive-Costing is relevant but not directly aligned with the title of Pricing Associate."
+            },
+            {
+                "factor": "Responsibilities performed in various roles",
+                "rating": 8,
+                "explanation": "The candidate has performed various relevant responsibilities such as cost analysis, budgeting, and MIS reporting, which are crucial for the role."
+            },
+            {
+                "factor": "Communication Skills",
+                "rating": 7,
+                "explanation": "The resume indicates good communication skills, but there is no specific evidence of email writing skills."
+            },
+            {
+                "factor": "Learnability",
+                "rating": 9,
+                "explanation": "The candidate has shown a willingness to learn new skills, as evidenced by their involvement in SAP S/4 HANA implementation and MIS automation."
+            },
+            {
+                "factor": "Stability",
+                "rating": 6,
+                "explanation": "The candidate has had multiple roles in a relatively short period, indicating moderate stability."
+            },
+            {
+                "factor": "Adaptability",
+                "rating": 7,
+                "explanation": "The candidate has adapted to different roles and responsibilities, showing a good level of adaptability."
+            },
+            {
+                "factor": "Growth",
+                "rating": 8,
+                "explanation": "The candidate has shown growth in their career, moving from a trainee to a Sr. Executive role."
+            },
+            {
+                "factor": "Brand",
+                "rating": 7,
+                "explanation": "The candidate has worked with reputable organizations like Zydus Lifesciences and Tata Autocomp."
+            }
+        ],
+        "secondary_factors": [
+            {
+                "factor": "Industry",
+                "rating": 8,
+                "explanation": "The candidate has experience in the pharmaceutical and manufacturing industries, which are relevant to the job."
+            },
+            {
+                "factor": "Education",
+                "rating": 9,
+                "explanation": "The candidate has a professional qualification (CMA) and an M.Com degree, which are highly relevant to the job."
+            },
+            {
+                "factor": "Programming Languages, Tools and Softwares",
+                "rating": 8,
+                "explanation": "The candidate has experience with MS Office and SAP, which are relevant tools for the job."
+            },
+            {
+                "factor": "Spoken Languages",
+                "rating": 7,
+                "explanation": "The candidate is proficient in English, Hindi, and Gujarati, which is beneficial for communication."
+            }
+        ]
+    },
+    "calculations": {
+        "factors": [
+            {
+                "factor": "Relevant experience",
+                "score": 16
+            },
+            {
+                "factor": "Title",
+                "score": 10.5
+            },
+            {
+                "factor": "Responsibilities performed in various roles",
+                "score": 16
+            },
+            {
+                "factor": "Communication Skills",
+                "score": 7
+            },
+            {
+                "factor": "Learnability",
+                "score": 9
+            },
+            {
+                "factor": "Stability",
+                "score": 3
+            },
+            {
+                "factor": "Adaptability",
+                "score": 3.5
+            },
+            {
+                "factor": "Growth",
+                "score": 8
+            },
+            {
+                "factor": "Brand",
+                "score": 3.5
+            },
+            {
+                "factor": "Industry",
+                "score": 12
+            },
+            {
+                "factor": "Education",
+                "score": 13.5
+            },
+            {
+                "factor": "Programming Languages, Tools and Softwares",
+                "score": 8
+            },
+            {
+                "factor": "Spoken Languages",
+                "score": 7
+            }
+        ]
+    },
+    "final_score": 118
+}

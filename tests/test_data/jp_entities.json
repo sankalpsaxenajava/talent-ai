@@ -1,0 +1,111 @@
+{
+  "summary": "Job Description for Pricing Associate",
+  "basics": [
+    {
+      "jobTitle": "Pricing Associate",
+      "jobLevel": "null",
+      "organization": "null",
+      "organization’sIndustrySegment": [
+        "Finance"
+      ],
+      "department": "null",
+      "location": "null",
+      "reportingTo": "null",
+      "preferredCandidateCurrentRole": "null",
+      "minBaseSalaryRange": "null",
+      "maxBaseSalaryRange": "null",
+      "minCurrentBaseSalaryOfCandidates": "null",
+      "maxCurrentBaseSalaryOfCandidates": "null",
+      "relocationSupport": false,
+      "IsworkAuthorizationRequired": "null"
+    }
+  ],
+  "overallYearsOfExperience": 2,
+  "keyResponsibilities": [
+    "Pricing and profitability analysis",
+    "Preparation of budgets for client contracts and presentations",
+    "Drafting of scope of work documents",
+    "Maintenance of team trackers",
+    "MIS updates to stakeholders"
+  ],
+  "peopleManagementExperience": false,
+  "softwareToolsOrProgrammingLanguages": [
+    {
+      "name": "MS Office",
+      "isMandatory": true
+    },
+    {
+      "name": "Power BI",
+      "isMandatory": false
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Financial Analysis",
+      "yearsOfExperience": 2,
+      "score": "20%"
+    },
+    {
+      "skillName": "Budgeting",
+      "yearsOfExperience": 2,
+      "score": "20%"
+    },
+    {
+      "skillName": "Communication",
+      "yearsOfExperience": 2,
+      "score": "20%"
+    },
+    {
+      "skillName": "Analytical Skills",
+      "yearsOfExperience": 2,
+      "score": "20%"
+    },
+    {
+      "skillName": "Excel",
+      "yearsOfExperience": 2,
+      "score": "10%"
+    },
+    {
+      "skillName": "PPT",
+      "yearsOfExperience": 2,
+      "score": "5%"
+    },
+    {
+      "skillName": "Word",
+      "yearsOfExperience": 2,
+      "score": "5%"
+    }
+  ],
+  "education": [
+    {
+      "degree_level": "MBA, Inter C.A., CWA",
+      "degree": "null",
+      "field_of_study": "Finance",
+      "specialization": "null",
+      "EducationInstitution'sPreference": [
+        "null"
+      ],
+      "isMandatory": "true"
+    }
+  ],
+  "languages": [
+    {
+      "name": "null",
+      "fluency": "null"
+    }
+  ],
+  "certifications": [
+    "null"
+  ],
+  "industryPreference": [
+    "null"
+  ],
+  "organizationPreference": [
+    "null"
+  ],
+  "organizationsToAvoid": [
+    "null"
+  ],
+  "papersPublished": "null",
+  "patentsFiled": "null"
+}

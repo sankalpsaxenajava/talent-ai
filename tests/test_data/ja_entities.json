@@ -1,0 +1,302 @@
+{
+    "summary": "A suitable & challenging position that offers me challenges with opportunities to utilize my knowledge, skills & experience towards organizational growth and to create niche for myself with enhancement of my personal strengths and thereby prove to be an asset to the organization to which I am associated.",
+    "basics": {
+        "name": "Ishan Shukla",
+        "label": "Sr. Executive-Costing",
+        "email": "ishanshuklaa@gmail.com",
+        "phone": "+91-9974771883",
+        "linkedin": "linkedin.com/in/ishan",
+        "address": [
+            {
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "country": "India"
+            }
+        ],
+        "currentSalary": "null",
+        "expectedSalary": "null",
+        "noticePeriod": "null",
+        "gender": "Male"
+    },
+    "experience": [
+        {
+            "title": "Sr. Executive-Costing",
+            "company": "Zydus Lifesciences LTD",
+            "employment_type": "Full-time",
+            "start": "06-2021",
+            "end": "05-2024",
+            "description": "Preparation and circulation of monthly BU Costing MIS report and Yield analysis along with the breakup of Yield variances, Preparation New Product Cost and manpower costing, Preparation of Europe market Budgeted cost sheet, Preparation of Cost Audit data: Quantity reconciliation, Capacity utilization, Related party transaction, Plant and Market wise sales reconciliation, Maintaining accurate Standard cost of materials and monitoring price differences, Quarterly Inventory valuation for Europe market, Conducting Cost benefit analysis and providing cost reduction ideas, Calculation of Payback periods for Capex, Periodic stock audit of Semi finished goods and finished goods, Providing assistance to atomization of MIS Dashboard and giving supporting role in S4 HANA implementation",
+            "industry": "Pharmaceuticals, Healthcare",
+            "location": "Ahmedabad, Gujarat, India",
+            "teamLeadingExperience": false,
+            "yearsOfExperience": 2.9,
+            "skills": [
+                {
+                    "skillName": "Costing",
+                    "score": "20"
+                },
+                {
+                    "skillName": "MIS Reporting",
+                    "score": "15"
+                },
+                {
+                    "skillName": "Yield Analysis",
+                    "score": "15"
+                },
+                {
+                    "skillName": "Inventory Valuation",
+                    "score": "15"
+                },
+                {
+                    "skillName": "Cost Benefit Analysis",
+                    "score": "15"
+                },
+                {
+                    "skillName": "Stock Audit",
+                    "score": "10"
+                },
+                {
+                    "skillName": "Capex Calculation",
+                    "score": "10"
+                }
+            ]
+        },
+        {
+            "title": "Trainee - Costing & Internal Audit",
+            "company": "Ashish Bhavsar & Associates",
+            "employment_type": "Trainee",
+            "start": "01-2018",
+            "end": "06-2018",
+            "description": "Determination of process is properly implemented and maintained, Preparation of Weekly MIS report, Conducting physical stock Audit and submission of the report to Management, Vouching of Purchase and Sales invoices, Material issue slips",
+            "industry": "Consulting, Automotive",
+            "location": "Ahmedabad, Gujarat, India",
+            "teamLeadingExperience": false,
+            "yearsOfExperience": 0.5,
+            "skills": [
+                {
+                    "skillName": "Internal Audit",
+                    "score": "20"
+                },
+                {
+                    "skillName": "MIS Reporting",
+                    "score": "20"
+                },
+                {
+                    "skillName": "Stock Audit",
+                    "score": "20"
+                },
+                {
+                    "skillName": "Process Implementation",
+                    "score": "20"
+                },
+                {
+                    "skillName": "Vouching",
+                    "score": "20"
+                },
+                {
+                    "skillName": "null",
+                    "score": "null"
+                },
+                {
+                    "skillName": "null",
+                    "score": "null"
+                }
+            ]
+        },
+        {
+            "title": "Costing & Internal Audit",
+            "company": "null",
+            "employment_type": "null",
+            "start": "09-2020",
+            "end": "04-2021",
+            "description": "Preparation of cost audit report & assistance in Cost Audit, Preparation of Cost records as per Cost Audit and Record rules, Preparation of quantity reconciliation report, Preparation of product wise cost sheet and per unit product margin",
+            "industry": "null",
+            "location": "null",
+            "teamLeadingExperience": false,
+            "yearsOfExperience": 0.7,
+            "skills": [
+                {
+                    "skillName": "Cost Audit",
+                    "score": "30"
+                },
+                {
+                    "skillName": "Cost Records Preparation",
+                    "score": "30"
+                },
+                {
+                    "skillName": "Quantity Reconciliation",
+                    "score": "20"
+                },
+                {
+                    "skillName": "Product Costing",
+                    "score": "20"
+                },
+                {
+                    "skillName": "Stock Audit",
+                    "score": "10"
+                },
+                {
+                    "skillName": "null",
+                    "score": "null"
+                },
+                {
+                    "skillName": "null",
+                    "score": "null"
+                }
+            ]
+        }
+    ],
+    "softwareToolsOrProgrammingLanguages": "SAP-FICO, MS Office",
+    "languages": [
+        {
+            "name": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "name": "Hindi",
+            "fluency": "Fluent"
+        },
+        {
+            "name": "Gujarati",
+            "fluency": "Fluent"
+        }
+    ],
+    "education": [
+        {
+            "institution": "The Institute of Cost Accountants of India",
+            "start_date": "null",
+            "end_date": "12-2020",
+            "degree_level": "Certification",
+            "degree": "ICAI Final",
+            "field_of_study": "Cost Accountancy",
+            "specialization": "null"
+        },
+        {
+            "institution": "The Institute of Cost Accountants of India",
+            "start_date": "null",
+            "end_date": "06-2018",
+            "degree_level": "Certification",
+            "degree": "ICAI Intermediate",
+            "field_of_study": "Cost Accountancy",
+            "specialization": "null"
+        },
+        {
+            "institution": "The Institute of Cost Accountants of India",
+            "start_date": "null",
+            "end_date": "06-2016",
+            "degree_level": "Certification",
+            "degree": "ICAI Foundation",
+            "field_of_study": "Cost Accountancy",
+            "specialization": "null"
+        },
+        {
+            "institution": "Gujarat University",
+            "start_date": "null",
+            "end_date": "2019",
+            "degree_level": "Master's",
+            "degree": "M.Com",
+            "field_of_study": "Commerce",
+            "specialization": "null"
+        },
+        {
+            "institution": "Gujarat University",
+            "start_date": "null",
+            "end_date": "2017",
+            "degree_level": "Bachelor's",
+            "degree": "B.Com",
+            "field_of_study": "Commerce",
+            "specialization": "null"
+        },
+        {
+            "institution": "Vidhyanagar High School",
+            "start_date": "null",
+            "end_date": "2014",
+            "degree_level": "Higher Secondary",
+            "degree": "HSC",
+            "field_of_study": "null",
+            "specialization": "null"
+        },
+        {
+            "institution": "Vidhyanagar High School",
+            "start_date": "null",
+            "end_date": "2012",
+            "degree_level": "Secondary",
+            "degree": "SSC",
+            "field_of_study": "null",
+            "specialization": "null"
+        }
+    ],
+    "projects": [
+        {
+            "title": "SAP S/4 HANA Implementation",
+            "description": "Working experience with development team of FICO module for actual inventory costing during SAP S/4 HANA implementation",
+            "start date": "null",
+            "end date": "null",
+            "techstack": "SAP S/4 HANA",
+            "github link (optional)": "null"
+        },
+        {
+            "title": "MIS Report Automation",
+            "description": "Developed a system for the Atomization of MIS report",
+            "start date": "null",
+            "end date": "null",
+            "techstack": "null",
+            "github link (optional)": "null"
+        }
+    ],
+    "certificationsAndTrainings": [
+        {
+            "name": "ICAI Final",
+            "issuer": "The Institute of Cost Accountants of India",
+            "issued date": "12-2020",
+            "skills": ["Costing", "Audit", "Financial Management"]
+        },
+        {
+            "name": "ICAI Intermediate",
+            "issuer": "The Institute of Cost Accountants of India",
+            "issued date": "06-2018",
+            "skills": ["Costing", "Accounting", "Taxation"]
+        },
+        {
+            "name": "ICAI Foundation",
+            "issuer": "The Institute of Cost Accountants of India",
+            "issued date": "06-2016",
+            "skills": ["Costing", "Economics", "Business Laws"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "ICC",
+            "position": "Director",
+            "start": "2-12-2019",
+            "end": "null"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Publication 1",
+            "publisher": "PubSub",
+            "release date": "01-14-2020",
+            "description": "Some Description"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award 1",
+            "date": "02-31-2015",
+            "awarder": "Awarder"
+        }
+    ],
+    "interests": [
+        "Sports",
+        "Travelling"
+    ],
+    "PromotionsOrRoleChangesInOrganization": 0,
+    "awardsCount": 1,
+    "certificationsOrEducationInNewDomain": false,
+    "significantSkillChange": false,
+    "papersPublishedCount": 0,
+    "patentsFiledCount": 0,
+    "conferencePresentationsCount": 0,
+    "openSourceContributionsCount": 0
+}
